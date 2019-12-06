@@ -1,0 +1,3 @@
+[submodule "tidb-ansible"]
+	path = tidb-ansible
+	url = https://github.com/pingcap/tidb-ansible.git
